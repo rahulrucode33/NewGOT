@@ -12,6 +12,7 @@ public class GodsWood {
     public int godsWoodCheck() {
         int check = johnSnowService.familyChart();
         System.out.print("bela chio!");
+        System.out.println("Winter is coming");
         return check;
     }
 }
